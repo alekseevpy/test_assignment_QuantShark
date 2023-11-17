@@ -1,6 +1,6 @@
 # Test assignment for the Junior Python Developer position
 
-## Lev Alecseev
+## Lev Alekseev
 
 ![result1](./data/result1.jpg)
 
